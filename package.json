@@ -23,6 +23,6 @@
     "keyv": "^4.1.1"
   },
   "devDependencies": {
-    "eslint": "8.10.0"
+    "eslint": "8.46.0"
   }
 }
